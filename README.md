@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Hi%20I'm%20Muskan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 💻 Computer Science Student | 📊 Aspiring Data Analyst | 🎨 UI/UX Enthusiast
+### 💻 Computer Science Student | Data Analyst | Aspiring Software Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+📊;Designing+Simple+%26+Beautiful+Interfaces+🎨;Solving+Problems+with+DSA+🧩;Exploring+AI+%26+Machine+Learning+🤖;Always+Learning+%26+Building+🚀" />
 
